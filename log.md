@@ -27,3 +27,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp Map](https://www.freecodecamp.com/map)
+
+### Day 2: December 31, Saturday
+
+**Today's Progress**: Finished the jQuery tutorial on FreeCodeCamp.
+
+**Thoughts** Fuuny to see the end animation of the hinge animation class. Looking forward to the Basic FrontEnd Development Projects to apply some of my awesome CSS/HTML5/jQuery knowledge!
+
+**Link(s) to work**
+1. [freeCodeCamp Map](https://www.freecodecamp.com/map)
