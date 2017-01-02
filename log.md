@@ -37,3 +37,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp Map](https://www.freecodecamp.com/map)
+
+### Day 3: January 1, Sunday
+
+**Today's Progress**: Finished the first Basic Front End Development project, "Build A Tribute Page".
+
+**Thoughts** Not that complicated. The hardest part was to find the correct syntax for the responsive image format, and some timeline info to put under the picture.
+
+**Link(s) to work**
+1. [Build A Tribute Page](http://codepen.io/ronaldb/full/WRedMR/)
