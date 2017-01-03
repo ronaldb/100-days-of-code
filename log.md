@@ -46,3 +46,12 @@
 
 **Link(s) to work**
 1. [Build A Tribute Page](http://codepen.io/ronaldb/full/WRedMR/)
+
+### Day 4: January 2, Monday
+
+**Today's Progress**: Working on the second Basic Front End Development project, "Build A Personal Portfolio Page".
+
+**Thoughts** Wow. Lots of options to create a menu with links. But it looks like Bootstrap Scrollspy is by far the coolest solution. Still working on it.
+
+**Link(s) to work**
+1. [Build A Personal Portfolio Webpage](http://codepen.io/ronaldb/full/Xprwjo)
