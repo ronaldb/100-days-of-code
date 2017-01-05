@@ -55,3 +55,12 @@
 
 **Link(s) to work**
 1. [Build A Personal Portfolio Webpage](http://codepen.io/ronaldb/full/Xprwjo)
+
+### Day 5: January 4, Wednesday
+
+**Today's Progress**: Working on the second Basic Front End Development project, "Build A Personal Portfolio Page". Playing around with the navbar object, figured out padding to prevent the navbar from overlaying the contents.
+
+**Thoughts** Amazing how powerful this one object is.
+
+**Link(s) to work**
+1. [Build A Personal Portfolio Webpage](http://codepen.io/ronaldb/full/Xprwjo)
