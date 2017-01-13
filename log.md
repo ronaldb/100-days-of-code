@@ -64,3 +64,52 @@
 
 **Link(s) to work**
 1. [Build A Personal Portfolio Webpage](http://codepen.io/ronaldb/full/Xprwjo)
+
+### Day 6: January 5, Thursday
+
+**Today's Progress**: Something completely different. A presentation by Brian Lanham on Microservices in .NET, using Vert.x. Ties in nicely with the Docker stuff I've been doing!
+
+**Thoughts** Microservices are definitely a thing to come.
+
+**Link(s) to work**
+1. [RVNUG meeting](https://www.meetup.com/Roanoke-Valley-NET-User-Group/events/235981892/)
+
+### Day 7: January 7, Saturday
+
+**Today's Progress**: Struggling to make the headers on the personal portfolio follow along with the position on the page. I tried several examples, but no luck.
+
+**Thoughts** I'm not sure the navbar automatically supports that.
+
+**Link(s) to work**
+1. [Build A Personal Portfolio Webpage](http://codepen.io/ronaldb/full/Xprwjo)
+
+### Day 8: January 9, Monday
+
+**Today's Progress**: Still struggling with the headers for the different sections following along when someone scrolls.
+
+**Thoughts** I'm missing something... is this JavaScript driven?
+
+**Link(s) to work**
+1. [Build A Personal Portfolio Webpage](http://codepen.io/ronaldb/full/Xprwjo)
+
+### Day 9: January 10, Tuesday
+
+**Today's Progress**: Tried several more examples, but I am ready to leave it alone. The navbar has tons of options, but I can't find the one that makes the section and the menu sync.
+
+**Thoughts** Looking forward to the Javascript part of the FreeCodeCamp!
+
+**Link(s) to work**
+1. [Build A Personal Portfolio Webpage](http://codepen.io/ronaldb/full/Xprwjo)
+
+### Day 10: January 11, Wednesday
+
+**Today's Progress**: Docker time! Worked through a workshop to create an Amazon Load Balanced Cluster, with a simple web app. Not much coding, but understanding how AWS is set up and how the various pieces work together.
+
+**Thoughts** I now see the need for automating Continuous Deployment. Wow, that's a lot of steps to deploy a new version.
+
+**Link(s) to work**
+1. [Docker on AWS - Docker Blacksburg Meetup](https://github.com/DockerBlacksburgMeetup/slides/tree/master/2017-01-11-amazon-ecs/overview)
+
+
+
+
