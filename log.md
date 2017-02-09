@@ -110,6 +110,12 @@
 **Link(s) to work**
 1. [Docker on AWS - Docker Blacksburg Meetup](https://github.com/DockerBlacksburgMeetup/slides/tree/master/2017-01-11-amazon-ecs/overview)
 
+### Day 11: February 9, Wednesday
 
+**Today's Progress**: Docker time again! Another excellent workshop by Michael Irwin, explaining the new features in Docker 1.13. And we're doing CI/CD! A little coding, since we had to make changes to the cat application, and check them back in to Github.
 
+**Thoughts** Automated CI. Still a little manual CD, but the other platforms discussed offer more options (for a price). Also, 100 days of code has apparently taken a little hiatus with me. I need to pick it up again.
 
+**Link(s) to work**
+1. [Docker on AWS - Docker Blacksburg Meetup](https://github.com/mikesir87/ci-cd-intro-using-docker)
+2. [Cats application](https://github.com/ronaldb/cats)
